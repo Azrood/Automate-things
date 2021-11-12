@@ -8,3 +8,7 @@ If you have any issues or bugs, feel free to open an [issue](https://github.com/
 ## Summary
 1. [LaTeX Reports](latex%20report/)
     * [Bulk convert file images to LaTeX figure](latex%20report/screen2figure)
+
+2. [MS Office](MS%20Office/)
+   * [MS Word](MS%20Word/)
+      * [Extract all images from a doc file](MS%20Office/MS%20Word/Extract_images) 
