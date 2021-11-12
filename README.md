@@ -12,3 +12,4 @@ If you have any issues or bugs, feel free to open an [issue](https://github.com/
 2. [MS Office](MS%20Office/)
    * [MS Word](MS%20Word/)
       * [Extract all images from a doc file](MS%20Office/MS%20Word/Extract_images) 
+   * [MS Powerpoint)(MS%20Powerpoint)
