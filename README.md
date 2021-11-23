@@ -15,5 +15,5 @@ If you have any issues or bugs, feel free to open an [issue](https://github.com/
    * [MS Powerpoint](MS%20Powerpoint)
 
 3. [Markdown](markdown/)
-   * [Obsidian](obsidian/)
-      * [Convert Wikilinks to Markdown links](obsidian/wikilinks2markdown/)
+   * [Obsidian](markdown/obsidian/)
+      * [Convert Wikilinks to Markdown links](markdown/obsidian/wikilinks2markdown/)
